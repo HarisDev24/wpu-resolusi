@@ -4,3 +4,4 @@ WPU RESOLUSI
 - Belajar Javascript
 - Belajar Python
 - Membuat Jasa Web
+- Membuat Konten Tentang Web
