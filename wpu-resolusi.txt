@@ -3,4 +3,4 @@ WPU RESOLUSI
 - Belajar HTML & CSS
 - Belajar Javascript
 - Belajar Python
-- Membuat Web Portofolio
+- Membuat Jasa Web
