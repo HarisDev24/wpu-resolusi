@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Belajar GIT & GIT HUB 
+- Belajar HTML & CSS
+- Belajar Javascript
