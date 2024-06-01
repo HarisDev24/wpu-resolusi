@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Belajar GIT & GIT HUB 
 - Belajar HTML & CSS
 - Belajar Javascript
+- Belajar Python
+- Membuat Web Portofolio
